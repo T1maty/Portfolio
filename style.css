@@ -170,17 +170,15 @@ section.about p {
     margin-bottom: 2rem;
 }
 
-section.about .socials {
-    display: flex;
-}
-
 section.about .socials a {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 35px;
+    width: 70px;
+    height: 70px;
     margin-right: 0.8rem;
-    border-radius: 50%;
+    border-radius: 100%;
+    padding: 10px;
 }
 
 section.about .socials a:hover {
